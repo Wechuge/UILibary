@@ -1450,7 +1450,7 @@ end
 
 library.settings = {
 	guiname = "zenwaregui",
-	title = "Zen-Ware",
+	title = "Zen-Ware Premium",
 	footer = "...",-- "UId: 1770943654 | 18:48:21 | FPS: 60 | https://discord.gg/qeYCtPAvD5",
 	modal = true,
 	font = Enum.Font.Code,
