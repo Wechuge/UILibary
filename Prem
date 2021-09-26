@@ -1449,7 +1449,7 @@ function zigzag(X)
 end
 
 library.settings = {
-	guiname = "hexhubgui",
+	guiname = "zenwaregui",
 	title = "Zen-Ware Premium",
 	footer = "...",-- "UId: 1770943654 | 18:48:21 | FPS: 60 | https://discord.gg/qeYCtPAvD5",
 	modal = true,
