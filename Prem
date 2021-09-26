@@ -1472,7 +1472,7 @@ library.colors = {
 
 spawn(function()
 	while true do
-		library.pointer.Parent.TextButton.FooterLabel.Text = "UID: "..game:GetService("Players").LocalPlayer.UserId.." | "..os.date('%X', os.time()).." | https://hexhub.xyz"
+		library.pointer.Parent.TextButton.FooterLabel.Text = "UID: "..game:GetService("Players").LocalPlayer.UserId.." | "..os.date('%X', os.time()).." | https://discord.gg/qeYCtPAvD5"
 		wait(1)
 	end
 end)
